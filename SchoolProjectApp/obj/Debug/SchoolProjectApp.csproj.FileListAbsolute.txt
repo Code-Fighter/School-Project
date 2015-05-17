@@ -1,1 +1,2 @@
 E:\manik\Project\SchoolProjectApp\SchoolProjectApp\bin\Debug\SchoolProjectApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Up\School-Project\SchoolProjectApp\bin\Debug\SchoolProjectApp.exe.config
